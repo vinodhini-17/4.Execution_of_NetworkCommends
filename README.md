@@ -27,6 +27,35 @@ This commands includes
 <BR>
 
 ## Output
+## NETSTAT
+![image](https://github.com/user-attachments/assets/d7289fdb-bee0-4fc5-a895-3249c11fab51)
+
+## IPCONFIG
+![image](https://github.com/user-attachments/assets/f56f9fd3-3126-41b2-b962-3a8559449703)
+
+## PING
+![image](https://github.com/user-attachments/assets/bd9c29a3-9c8c-47c1-837b-dab0cca74e81)
+
+## TRACERT
+![image](https://github.com/user-attachments/assets/89524e88-0321-4b52-9f5f-763d861b42fd)
+
+## NSLOOKUP
+![image](https://github.com/user-attachments/assets/f480fb5f-73fa-4c6a-b1c2-1424fdf12e16)
+
+## GETMAC
+![image](https://github.com/user-attachments/assets/a072ebb3-dc7d-4743-93d0-5d7b8c67444c)
+
+## HOSTNAME
+![image](https://github.com/user-attachments/assets/d685de71-cb53-4724-af0f-51589a53bc61)
+
+## NBTSTAT
+![image](https://github.com/user-attachments/assets/e31df4be-2961-4973-85e9-804966b7ca61)
+
+## ARP
+![image](https://github.com/user-attachments/assets/b66e8893-f73e-4ffa-ada2-3aefc6e8c2a5)
+
+## SYSTEM INFO
+![image](https://github.com/user-attachments/assets/3c37fb0b-caa0-4b79-bc42-17a6733555ad)
 
 ## Result
 Thus Execution of Network commands Performed 
